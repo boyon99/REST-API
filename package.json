@@ -1,0 +1,23 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "REST-API 활용 실습 REPO",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boyon99/REST-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boyon99/REST-API/issues"
+  },
+  "homepage": "https://github.com/boyon99/REST-API#readme",
+  "keywords": [],
+  "devDependencies": {
+    "json-server": "^0.17.1"
+  }
+}
